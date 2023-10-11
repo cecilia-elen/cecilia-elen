@@ -6,8 +6,8 @@
 
 Sou uma estudante do Instituto Federal Baiano Campus Guanambi. Este é o meu perfil no GitHub, onde uso como ferramenta de estudo para minha área que estou cursando.
 
-Cursando:Informática para internet.
+👩‍💻 Estudante de Informática para Internet
 
-Estudando no Instituto Federal Baiano Campus Guanambi.
+🌱 Aprendendo e Explorando o Mundo da Tecnologia
 
-Na cidade de Guanambi Bahia.
+📚 Estudando Informática na Instituto Federal Baiano Campus Guanambi
