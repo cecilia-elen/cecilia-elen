@@ -1,4 +1,3 @@
-# Perfil de Ceci
 
 ![Foto de Perfil](profile-image.jpg)
 
